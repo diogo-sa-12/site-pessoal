@@ -1,0 +1,60 @@
+Diogo Sá
+Senior Application Engineer
+(351) 966327645 // sa.diogoafonso@gmail.com // linkedin.com/in/sadiogo
+PROFILE
+As Senior Application Engineer, I’m providing high-level technical oversight and team leadership. I create value by ensuring the 24/7 reliability of core
+business applications through robust L1/L2/L3 support structures and processes automation. My focus on Python-driven process optimization ensures
+data integrity and rapid incident resolution, allowing internal departments to focus on their core functions without technical friction.
+______________________________________________________________________________________________________________
+SKILL
+Technical Skills: Python, Shell Scripting, SQL, ETL & data pipelines, CI/CD (Jenkins, XLDeploy, XLRelease), Git, Power BI, ServiceNow, Jira,
+Angular 12, .NET 5, process automation, data validation, application support (L1-L3).
+Soft Skills: Team leadership, stakeholder management, Agile Scrum, process improvement, documentation & knowledge management,
+regulatory compliance.
+______________________________________________________________________________________________________________
+EXPERIENCE
+Team Lead Application Support Engineer
+Natixis, Corp. Finance // Jan 2024-Present
+- Monitoring ETL process that feeds applications with a 99% uptime in Production,
+- Implementation of 15 new data extraction in response to Business needs with Python, Shell scripting and SQL,
+- Automation of 30+ tasks for data validation and data load processes with use of Python, Shell scripting and SQL,
+- Working with ServiceNow to accomplish around 100% of incident and changes response to more than 1000 business users in a total of 5 combined
+applications,
+- Use of Jira to increase 50% accomplishments of task in time and with documentation
+- Actively using confluence to better document and organizing the team processes and knowledge by more than tripling the amount of pages
+- Reporting to auditing with total success on requested information and processes by Bank of France
+- Handling CI/CD process for deployment of developments, using GIT, Jenkins, XLDeploy and XLRelease
+- Collaborating with the Business, Development, Operation and Security departments to ensure smooth operation
+QA/DevOps Engineer
+Natixis // Jun 2022-Jan 2024
+- Led the digital transformation of core business processes, improving delivery efficiency and traceability across teams.
+- Automation of 55% of all backlogs, increasing test coverage and reducing production defects
+- Designed and implemented an ETL model using Python and APIs (Jira) to build a KPI framework in Power BI, enabling real-time project monitoring
+- Implemented CI/CD pipelines for development and testing using Jenkins, XL Release, and XL Deploy, reducing deployment time from around 12 hours to
+1 hour
+- Improving pipeline reliability and reducing manual intervention by 40% through developing Python automation scripts to support CI/CD workflows
+- Agile Scrum methodologies, ensuring transparent task tracking, sprint monitoring, and continuous delivery.
+Product Owner
+Link Consulting // Nov 2021 – May 2023
+- Owned and prioritized the product backlog, managing 75+ user stories and achieving around 85% sprint delivery predictability
+- Acted as the voice of the customer, aligning product vision across multiple stakeholders
+- Defined user stories and acceptance criteria, reducing rework and defects by 30-50%
+- Drove process improvements and systems integrations, reducing manual operation by 20% through the implementation of a compliance-focused facial
+recognition system
+- Delivered product initiatives within regulated financial environments, ensuring full compliance and audit success
+Full-Stack Developer
+Link Consulting // Jan 2021 – Nov 2021
+- Application refactoring from Microsoft Silverlight 5 for the BankOnBox product
+- Implementing Angular 12 for frontend, .NET 5 for backend
+- Use of GIT Kraken for version control
+Business Intelligence Developer
+BiCredit by Banck Invest // Set 2019 – Dez 2020
+- Utilization of Oracle SQL to create around 30 procedures and functions to manipulate data ensuring cleaning, processing and high-quality datasets
+- Automation of more than 20 reports respecting business needs and requirements
+______________________________________________________________________________________________________________
+EDUCATION
+Master – Service Engineering and Management - Faculty of Engineering - University of Porto
+BATCHELOR – COMPUTER ENGINEERING - Polytechnic of Guarda
+______________________________________________________________________________________________________________
+LANGUAGE
+Portuguese – Native // Inglish – Fluent // Spanish – Semi-Fluent
