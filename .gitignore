@@ -1,5 +1,4 @@
 CLAUDE.md
-"Diogo S\303\241.txt"
 
 # dependencies
 node_modules/
@@ -24,4 +23,5 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
 
