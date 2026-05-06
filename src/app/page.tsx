@@ -1,7 +1,6 @@
 import { ArrowRight } from 'lucide-react'
 import AnimatedSection from '@/components/AnimatedSection'
 import ProjectCard from '@/components/ProjectCard'
-import ContactForm from '@/components/ContactForm'
 import { projects } from '@/content/projects'
 
 const technicalSkills = [
@@ -179,12 +178,17 @@ export default function HomePage() {
         <AnimatedSection>
           <h2 className="text-3xl font-bold tracking-tight">Contact</h2>
           <p className="mt-3 text-gray-600 max-w-md">
-            Have a project in mind, a question, or just want to say hi? Send me
-            a message and I&apos;ll get back to you.
+            Have a project in mind, a question, or just want to say hi? Feel
+            free to reach out by email.
           </p>
         </AnimatedSection>
-        <AnimatedSection delay={0.1} className="mt-10 max-w-md">
-          <ContactForm />
+        <AnimatedSection delay={0.1} className="mt-8">
+          <a
+            href="mailto:darlsgaming@gmail.com"
+            className="inline-block px-5 py-2 rounded-md bg-gray-900 text-white text-sm font-medium hover:opacity-90 transition-opacity"
+          >
+            darlsgaming@gmail.com
+          </a>
         </AnimatedSection>
       </section>
 
