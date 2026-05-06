@@ -6,7 +6,7 @@ const withMDX = createMDX({})
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'md', 'mdx'],
   output: 'export',
-  basePath: '/site-pessoal',
+  basePath: process.env.GITHUB_ACTIONS ? '/site-pessoal' : '',
   images: {
     unoptimized: true,
   },
