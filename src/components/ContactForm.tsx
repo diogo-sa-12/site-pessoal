@@ -23,9 +23,9 @@ export default function ContactForm() {
     e.preventDefault()
     setStatus('loading')
     try {
-      const res = await fetch('/api/contact', {
+      const res = await fetch('https://formspree.io/f/YOUR_FORM_ID', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify(form),
       })
       if (!res.ok) throw new Error('Request failed')
